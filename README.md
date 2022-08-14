@@ -1,4 +1,4 @@
-# Intel Quartus Prime Block Diagram Files
+## Intel Quartus Prime Block Diagram Files - EEET2604 Digital Systems Design 1
 
 ### 1. Numbers '3' and '5' Detector Optimized Digital Circuit
 
